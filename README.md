@@ -8,7 +8,8 @@ CS698V Group-13<br>
     </embed>
 </object>
 -->
-[implementation](https://github.com/architb1703/Toxic_Span)
+[implementation](https://github.com/architb1703/Toxic_Span)<br>
+[Competition Link](https://competitions.codalab.org/competitions/25623)
 
-<object data="IITK@Detox_at_SemEval_2021_Task_5.pdf" type="application/pdf" width="100%">
+<object data="/IITK@Detox_at_SemEval_2021_Task_5.pdf" type="application/pdf" width="100%">
 </object>
